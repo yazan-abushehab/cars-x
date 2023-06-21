@@ -1,3 +1,26 @@
+# LAB : DjangoX - Class-29
+# _**Project: cars-x**_
+
+## **Author: Yazan-abushhab**
+
+<br>
+
+## How do you run the code ?
+
+     put this command in the terminal: python manage.py runserver
+
+<br>
+
+## Setup
+
+    To setup check the requirements.txt to install the required packages
+
+<br>
+
+## Test
+
+    To run the tests put this command in the terminal: python manage.py test
+
 > A batteries-included Django starter project. To learn more try the books [Django for Beginners](https://djangoforbeginners.com), [Django for APIs](https://djangoforapis.com), and [Django for Professionals](https://djangoforprofessionals.com).
 
 
